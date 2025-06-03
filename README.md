@@ -1,4 +1,4 @@
-一个简单的学生信息管理系统，运行前请务必将 lib 设置为库。
+一个简单的学生信息管理系统，前端基于Swing组件，后端用jdk19自带包完全满足，额外包在lib中，运行前请务必将 lib 设置为库。
 数据库中有三张表：usertbl、stutbl 和 curritbl。
 usertbl 表示用户表，包含 uid(int)、uname(varchar)、upassword(varchar) 和 uright(varchar，三种权限：老师、学生和管理员) 等列。
 stutbl 表示学生表，包含 sid(int)、sname(varchar)、sphone(varchar)、sage(int)、ssex(tinyint 0,1)、susername(varchar)、spassword(varchar)、semail(varchar)、sphone(varchar)、sqqnumber(varchar) 等列。

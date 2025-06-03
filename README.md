@@ -5,6 +5,7 @@ stutbl 表示学生表，包含 sid(int)、sname(varchar)、sphone(varchar)、sa
 curritbl 表示课程表，包含 cstudent(varchar)、cname(varchar)、cid(varchar)、cteacher(varchar)、cgrade(int)。
 开发工具包是 IntelliIdea 和 DataGrip，运行 jdk19 和 mysql。
 很高兴能助力到你的学业。
+
 a simple Student information Manage System
 Be sure to set lib as library before you run
 as for the database code i have no idea to upload.Comment if u know.
